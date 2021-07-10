@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "Airpodsasdasadasdasdasd",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 89.99
+  },
+  {
+    "id": "4",
+    "name": "Sony Playstation 4 Pro White Version",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+    "price": 399.99
+  },
+  {
+    "id": "5",
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "price": 49.99
+  },
+  {
+    "id": "429e5afa-2f4a-4ab4-94d0-ed332960795d",
+    "name": "Mackbook Pro 15",
+    "descripton": "Apple Mackbook Pro 15",
+    "price": 1500
+  },
+  {
+    "id": "a8cd860d-5ef8-441b-9a88-138b927c71bf",
+    "name": "ajsidakjbfisjdb",
+    "descripton": "Apple Mackbook Pro 15",
+    "price": 1500
+  },
+  {
+    "id": "6d798c09-926f-40a0-b3a9-c51897da9101",
+    "name": "Mackbook Pro 15",
+    "price": 1600
+  },
+  {
+    "id": "fe646c91-a3fc-4f70-a07b-2282a9a7cc8f",
+    "name": "Mackbook Pro 15",
+    "price": 2590
+  },
+  {
+    "id": "c996f27b-1411-468d-bf88-4126d46ef815",
+    "name": "Mackbook Pro 16",
+    "descripton": "Apple Mackbook Pro 15",
+    "price": 21
+  }
+]
